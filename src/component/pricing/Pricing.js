@@ -9,6 +9,7 @@ const Pricing = () => {
                 'every things on free',
                 'unlimeted deals',
                 'localixe deals',
+                'crazy deals',
                 'crazy deals'
             ]
         },
@@ -17,7 +18,8 @@ const Pricing = () => {
                 'every things on regular',
                 'unlimeted deals',
                 'localixe deals',
-                'crazy deals'
+                'crazy deals',
+                'crazy deals',
             ]
         },
         {
@@ -25,7 +27,8 @@ const Pricing = () => {
                 'every things free all time',
                 'unlimeted deals',
                 'localixe deals',
-                'crazy deals'
+                'crazy deals',
+                'fantase deals'
             ]
         },
     ]
